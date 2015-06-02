@@ -1,0 +1,13 @@
+
+{
+  "name": "SAFE SDV",
+  "description": "Pagina De La Genial Compañia De Software Seguro",
+  "launch_path": "/index.html",
+  "icons": { "128": "/img/icon-128.png" },
+  "version": "0.1",
+  "developer": {
+    "name": "SAFE SDV",
+    "url": "https://github.com/SAFESDV/SAFESDV.github.io.git"
+  }
+}
+
