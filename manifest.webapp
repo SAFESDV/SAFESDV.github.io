@@ -3,7 +3,7 @@
   "name": "SAFE SDV",
   "description": "Pagina De La Genial Compañia De Software Seguro",
   "launch_path": "/index.html",
-  "icons": { "128": "/img/icon-128.png" },
+  "icons": { "128": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBuadKiJkvDZZ0aDJNWf3nay9woDWVN8T3nYZv4XPcr-ez3yHu7HKb2hg.png" },
   "version": "0.1",
   "developer": {
     "name": "SAFE SDV",
